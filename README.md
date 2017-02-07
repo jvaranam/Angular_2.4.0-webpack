@@ -1,3 +1,3 @@
-# angular-2.2.3-webpack
+# angular-2.4.0-webpack
 
-Angular 2.2.3 Webpack Seed
+Angular 2.4.0 Webpack Seed
